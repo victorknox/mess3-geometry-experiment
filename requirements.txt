@@ -1,0 +1,7 @@
+torch>=2.0
+transformer_lens
+jax
+jaxlib
+scikit-learn
+matplotlib
+numpy
